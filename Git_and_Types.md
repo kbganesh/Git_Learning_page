@@ -1,4 +1,4 @@
-#WHAT IS GIT
+# WHAT IS GIT
 
 Git is a version controlling system which helps for following: Traceability of code, Increase the productivity & Collaborate all developers.
 
