@@ -2,4 +2,6 @@ What is Git
 
 Copy command
 
-```cp ourece destina```
+<!--Enable Copy for Line 5-->
+cp ourece destina
+<!--Enable Copy for Line 10-->
