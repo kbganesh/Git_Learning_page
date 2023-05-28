@@ -10,3 +10,4 @@ Which is also called Version Control system(VCS) , Revision Control system(RCS) 
 
 2. Centralized VCS ---- Which helps for developers commit the code in same server.(Note: commit is nothing but to update the code in server)
 
+Git_images/Cent.png
