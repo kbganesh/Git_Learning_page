@@ -25,7 +25,7 @@ List Of VCS: GIT, SVN, Clear case, Mercurial, TFS, Helix-core ( Git is a distrib
 Git is very popular one and it is developed in 2005. Linus Torvalds is the owner of the Git.
 
 
-# Git Features:
+# GIT FEATURES:
 
 1. Work on a Distributed System.
 
@@ -39,4 +39,8 @@ Git is very popular one and it is developed in 2005. Linus Torvalds is the owner
 
 6. Reliable.
 
+# GIT WORKFLOW:
 
+Refer the image below.
+
+https://drive.google.com/file/d/1rQb3MLZNrm_KBMsD5NygKl7EJ1Oujo_f/view?usp=drive_link
